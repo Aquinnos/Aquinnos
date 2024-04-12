@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hey there! I'm a huge programming enthusiast - I absolutely love crafting websites! Lately, I've been diving deep into web design - it's become my ultimate vibe. I strive to make my projects not only look awesome but also function flawlessly. I feel like my skills in web design are leveling up, which totally excites me! I think I might soon create something truly spectacular! 😉
+Hey there! I'm a huge programming enthusiast - I absolutely love creating websites! Lately, I've been diving deep into web design - it's become my ultimate vibe. I strive to make my projects not only look awesome but also function flawlessly. I feel like my skills in web design are leveling up, which totally excites me! I think I might soon create something truly spectacular! 😉
 
 * 🌍  I'm based in Gdynia
 * ✉️  You can contact me at [wellandcomeu@gmail.com](mailto:wellandcomeu@gmail.com)
