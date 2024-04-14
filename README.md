@@ -8,7 +8,7 @@ Hey there! I'm a huge programming enthusiast - I absolutely love creating websit
 
 * 🌍  I'm based in Gdynia
 * ✉️  You can contact me at [wellandcomeu@gmail.com](mailto:wellandcomeu@gmail.com)
-* 🚀  I'm currently working on [Chat1fy](http://github.com/Aquinnos/Chat1fy)
+* 🚀  I'm currently working on [ravenshoot](http://github.com/Aquinnos/ravenshoot)
 * 🧠  I'm learning Nodejs, React, SCSS, JS
 * ⚡  I like flying a drone
 
