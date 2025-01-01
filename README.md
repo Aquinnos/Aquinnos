@@ -17,7 +17,7 @@ I'm a passionate developer who loves creating awesome websites and powerful Disc
 
 ### 📫 **Get in Touch**
 - 📍 **Based in:** Gdynia, Poland  
-- 📧 **Email:** [k.synakowski123@gmail.com@gmail.com](mailto:k.synakowski123@gmail.com)  
+- 📧 **Email:** [k.synakowski123@gmail.com](mailto:k.synakowski123@gmail.com)  
 - 🌐 **Current Project:** [Jotarov3](https://github.com/Aquinnos/jotarov3)
 
 ---
