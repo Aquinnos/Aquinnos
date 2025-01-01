@@ -21,7 +21,7 @@ I'm a passionate developer who loves creating awesome websites and powerful Disc
 - 🌐 **Current Project:** [Jotarov3](https://github.com/Aquinnos/jotarov3)
 
 ---
-### Skills
+### 🧠 Skills
 
 
 <p align="left">
@@ -29,18 +29,11 @@ I'm a passionate developer who loves creating awesome websites and powerful Disc
 </p>
 
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+## 🌐 Socials
 
-
-
-### Socials
-
-<a href="https://www.github.com/Aquinnos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aquinnos)
+[![Chat with me on Discord](https://img.shields.io/badge/Discord-Chat_with_me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/295313697562427403)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.synakowski123@gmail.com)
 
 ### 📊 GitHub Stats
 
