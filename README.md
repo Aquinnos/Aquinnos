@@ -35,9 +35,10 @@ I'm a passionate developer who loves creating awesome websites and powerful Disc
 
 ### Badges
 
-<b>My GitHub Stats</b>
+### 📊 GitHub Stats
 
-<a href="http://www.github.com/Aquinnos"><img src="https://github-readme-stats.vercel.app/api?username=Aquinnos&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="Aquinnos's GitHub stats" /></a>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquinnos&show_icons=true&theme=radical)
+
 
 <a href="http://www.github.com/Aquinnos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aquinnos&stroke=a855f7&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
