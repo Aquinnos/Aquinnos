@@ -1,20 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krystian
 ================================================================================================================================
 
-Web Developer
--------------
+## 💻 Web Developer | 🤖 Discord Bot Developer
 
-Hey there! I'm a huge programming enthusiast - I absolutely love creating websites! Lately, I've been diving deep into web design - it's become my ultimate vibe. I strive to make my projects not only look awesome but also function flawlessly. I feel like my skills in web design are leveling up, which totally excites me! I think I might soon create something truly spectacular! 😉
+I'm a passionate developer who loves creating awesome websites and powerful Discord bots. Recently, I've been diving deep into web design and AI-powered bots, and I'm excited about building tools that bring value and fun to users.
 
-* 🌍  I'm based in Gdynia
-* ✉️  You can contact me at [wellandcomeu@gmail.com](mailto:wellandcomeu@gmail.com)
-* 🚀  I'm currently working on [point-shoot_game ](http://github.com/Aquinnos/point-shoot_game )
-* 🧠  I'm learning Nodejs, React, SCSS, JS
-* ⚡  I like flying a drone
+---
 
-<a href="https://www.github.com/Aquinnos" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Aquinnos?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
+### 🛠️ **What I Do**
+- 🌍 Web Development with **Node.js**, **React**, and **SCSS**
+- 🤖 **Discord Bot Development** using **TypeScript** and **Discord.js**
+- 🎨 Creative web design with tools like **Figma** and **Photoshop**
+- 🚀 Always eager to learn and improve
 
+---
+
+### 📫 **Get in Touch**
+- 📍 **Based in:** Gdynia, Poland  
+- 📧 **Email:** [k.synakowski123@gmail.com@gmail.com](mailto:k.synakowski123@gmail.com)  
+- 🌐 **Current Project:** [Jotarov3](https://github.com/Aquinnos/jotarov3)
+
+---
 ### Skills
 
 
