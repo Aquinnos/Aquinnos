@@ -40,6 +40,12 @@ I'm a passionate developer who loves creating awesome websites and powerful Disc
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquinnos&show_icons=true&theme=radical)
 
 
-<a href="http://www.github.com/Aquinnos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aquinnos&stroke=a855f7&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+### 🔥 GitHub Streak Stats
 
-<a href="https://github.com/Aquinnos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinnos&langs_count=10&title_color=ef4444&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)
+
+
+### 📚 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
