@@ -42,10 +42,10 @@ I'm a passionate developer who loves creating awesome websites and powerful Disc
 
 ### 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aquinnos&theme=radical)
 
 
 ### 📚 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinnos&layout=compact&theme=radical)
 
