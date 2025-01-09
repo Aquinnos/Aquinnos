@@ -8,7 +8,7 @@ I'm a passionate developer who loves creating awesome websites and powerful Disc
 ---
 
 ### 🛠️ **What I Do**
-- 🌍 Web Development with **Node.js**, **React**, and **SCSS**
+- 🌍 Web Development with **Node.js**, **React**, **SCSS** and **Tailwind**
 - 🤖 **Discord Bot Development** using **TypeScript** and **Discord.js**
 - 🎨 Creative web design with tools like **Figma** and **Photoshop**
 - 🚀 Always eager to learn and improve
