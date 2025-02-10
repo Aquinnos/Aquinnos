@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krystian
 ================================================================================================================================
 
-## 💻 Web Developer | 🤖 Discord Bot Developer
+## 💻 Software Engineer
 
 I'm a passionate developer who loves creating awesome websites and powerful Discord bots. Recently, I've been diving deep into web design and AI-powered bots, and I'm excited about building tools that bring value and fun to users.
 
 ---
 
 ### 🛠️ **What I Do**
-- 🌍 Web Development with **Node.js**, **React**, **SCSS** and **Tailwind**
+- 🌍 Web Development with **Node.js**, **React**, **Next.js**, **SCSS** and **Tailwind**
 - 🤖 **Discord Bot Development** using **TypeScript** and **Discord.js**
 - 🎨 Creative web design with tools like **Figma** and **Photoshop**
 - 🚀 Always eager to learn and improve
