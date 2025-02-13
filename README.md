@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krystian
 ================================================================================================================================
 
-## 💻 Software Engineer
+## 💻 Full-stack Developer
 
 I'm a passionate developer who loves creating awesome websites and powerful Discord bots. Recently, I've been diving deep into web design and AI-powered bots, and I'm excited about building tools that bring value and fun to users.
 
