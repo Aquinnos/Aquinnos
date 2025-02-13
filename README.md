@@ -1,21 +1,35 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krystian
 ================================================================================================================================
 
-## 💻 Full-stack Developer
+## 💻 Full-Stack Developer | JavaScript | TypeScript | Next.js | Node.js
 
-I'm a passionate developer who loves creating awesome websites and powerful Discord bots. Recently, I've been diving deep into web design and AI-powered bots, and I'm excited about building tools that bring value and fun to users.
+I'm a full-stack developer with experience in building modern, scalable web applications. My main focus is on frontend with Next.js, React, Tailwind CSS, and backend with Node.js, Express.js, SQL, and Firebase.
 
 ---
 
 ### 🛠️ **What I Do**
-- 🌍 Web Development with **Node.js**, **React**, **Next.js**, **SCSS** and **Tailwind**
-- 🤖 **Discord Bot Development** using **TypeScript** and **Discord.js**
-- 🎨 Creative web design with tools like **Figma** and **Photoshop**
-- 🚀 Always eager to learn and improve
+
+#### **🖥️ Frontend Development**
+- **Next.js, React, TypeScript, Tailwind CSS**  
+- UI/UX design with **Figma**  
+- Performance optimization & responsive design  
+
+#### **⚙️ Backend Development**
+- **Node.js, Express.js, SQL, MongoDB, Firebase**  
+- REST API & authentication (**JWT, OAuth**)  
+- Cloud Functions & serverless architecture  
+
+#### **🛠 DevOps & Tools**
+- **Docker, Docker Compose**  
+- **GitHub Actions**  
+- Deployment on **Vercel, Firebase**  
+
+#### **🤖 Other Projects**
+- Discord bot development using **Discord.js** *(as a side project)*
 
 ---
 
-### 📫 **Get in Touch**
+### 📫 ** Let's Connect!**
 - 📍 **Based in:** Gdynia, Poland  
 - 📧 **Email:** [k.synakowski123@gmail.com](mailto:k.synakowski123@gmail.com)  
 - 🌐 **Current Project:** [Jotarov3](https://github.com/Aquinnos/jotarov3)
