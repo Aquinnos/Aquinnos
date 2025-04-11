@@ -3,26 +3,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 💻 Full-Stack Developer | JavaScript | TypeScript | Next.js | Node.js
 
-I'm a full-stack developer with experience in building modern, scalable web applications. My main focus is on frontend with Next.js, React, Tailwind CSS, and backend with Node.js, Express.js, SQL, and Firebase.
+I'm a full-stack developer with experience in building modern, scalable web applications. My main focus is on frontend with React, Tailwind CSS, and backend with Node.js, Express.js, SQL, and Firebase.
 
 ---
 
 ### 🛠️ **What I Do**
 
 #### **🖥️ Frontend Development**
-- **Next.js, React, TypeScript, Tailwind CSS**  
-- UI/UX design with **Figma**  
+- **React, TypeScript, Tailwind CSS**   
 - Performance optimization & responsive design  
 
 #### **⚙️ Backend Development**
 - **Node.js, Express.js, SQL, MongoDB, Firebase**  
-- REST API & authentication (**JWT, OAuth**)  
+- Authentication (**JWT, OAuth**)  
 - Cloud Functions & serverless architecture  
 
 #### **🛠 DevOps & Tools**
 - **Docker, Docker Compose**  
 - **GitHub Actions**  
-- Deployment on **Vercel, Firebase**  
+- Deployment on **Vercel, Render**  
 
 #### **🤖 Other Projects**
 - Discord bot development using **Discord.js** *(as a side project)*
