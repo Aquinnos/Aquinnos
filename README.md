@@ -10,7 +10,7 @@ I'm a Frontend developer with experience in building modern, scalable web applic
 ### 🛠️ **What I Do**
 
 #### **🖥️ Frontend Development**
-- **React, TypeScript, Tailwind CSS**   
+- **React, JavaScript/TypeScript, Tailwind CSS**   
 - Performance optimization & responsive design  
 
 #### **⚙️ Backend Development**
