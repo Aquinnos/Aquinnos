@@ -16,11 +16,9 @@ I'm a Frontend developer with experience in building modern, scalable web applic
 #### **⚙️ Backend Development**
 - **Node.js, Express.js, SQL, MongoDB**  
 - Authentication (**JWT, OAuth**)  
-- Cloud Functions & serverless architecture  
 
 #### **🛠 DevOps & Tools**
-- **Docker, Docker Compose**  
-- **GitHub Actions**  
+- **Git, Github, Docker, Docker Compose**  
 - Deployment on **Vercel, Render**  
 
 #### **🤖 Other Projects**
