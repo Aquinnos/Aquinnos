@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 💻 Frontend Developer | JavaScript | TypeScript | Next.js | Node.js
 
-I'm a Frontend developer with experience in building modern, scalable web applications. My main focus is on frontend with React, Tailwind CSS and sometimes backend with Node.js, Express.js, SQL, and Firebase.
+I'm a Full-Stack developer with experience in building modern, scalable web applications. My main focus is on frontend with React, Tailwind CSS and sometimes backend with Node.js, Express.js, SQL, and Firebase.
 
 ---
 
