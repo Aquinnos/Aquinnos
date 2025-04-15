@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krystian
 ================================================================================================================================
 
-## 💻 Frontend Developer | JavaScript | TypeScript | Next.js | Node.js
+## 💻 Full-Stack Developer | JavaScript | TypeScript | Next.js | Node.js | Express.js | MongoDB
 
 I'm a Full-Stack developer with experience in building modern, scalable web applications. My main focus is on frontend with React, Tailwind CSS and sometimes backend with Node.js, Express.js, SQL, and Firebase.
 
