@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 💻 Full-Stack Developer | JavaScript | TypeScript | Next.js | Node.js | Express.js | MongoDB
 
-I'm a Full-Stack developer with experience in building modern, scalable web applications. My main focus is on frontend with React, Tailwind CSS and sometimes backend with Node.js, Express.js, SQL, and Firebase.
+I'm a Full-Stack developer with experience in building modern, scalable web applications. My main focus is on frontend with React, Tailwind CSS and sometimes backend with Node.js, Express.js and MongoDB.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a Full-Stack developer with experience in building modern, scalable web appl
 - Performance optimization & responsive design  
 
 #### **⚙️ Backend Development**
-- **Node.js, Express.js, SQL, MongoDB**  
+- **Node.js, Express.js, MongoDB**  
 - Authentication (**JWT, OAuth**)  
 
 #### **🛠 DevOps & Tools**
