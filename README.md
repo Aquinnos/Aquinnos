@@ -29,7 +29,7 @@ I'm a Full-Stack developer with experience in building modern, scalable web appl
 ### 📫 ** Let's Connect!**
 - 📍 **Based in:** Gdynia, Poland  
 - 📧 **Email:** [k.synakowski123@gmail.com](mailto:k.synakowski123@gmail.com)  
-- 🌐 **Current Project:** [mychat](https://github.com/aquinnos/mychat)
+- 🌐 **Current Project:** [Coastside](https://github.com/aquinnos/coastside)
 - 🌐 **My Portfolio Website:** [Portfolio](https://nextscript.dev/)
 
 ---
