@@ -53,17 +53,3 @@ I am a Fullstack Developer building fast, modern, and scalable web applications.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="36" height="36" alt="Raspberry Pi" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aquinnos&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
-
-### 📚 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinnos&layout=compact&theme=radical" alt="Top Languages" />
-</p>
