@@ -23,7 +23,7 @@ I am a Fullstack Developer building fast, modern, and scalable web applications.
 
 ### 📫 **Let's Connect!**
 - 📍 **Based in:** Gdynia, Poland  
-- 🌐 **Portfolio:** [Portfolio](https://krystian-synakowski-portfolio.vercel.app/)
+- 🌐 **Portfolio:** [Portfolio](https://www.krystiansynakowski.me/)
 
 ## 🌐 Socials
 
